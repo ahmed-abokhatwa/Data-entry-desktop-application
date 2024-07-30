@@ -44,7 +44,7 @@ A desktop application built with Python . Here's a breakdown of its functionalit
 CONTACT ME FOR MORE DETAILS:
 Abokhatwa.eldeeb@gmail.com 
 
-Overall, this application provides a user-friendly way for TAQA Company to collect, validate, and store data related to sales or services. 
+this application provides a user-friendly way to collect, validate, and store data related to sales or services. 
 
 ![1](https://github.com/user-attachments/assets/a6b5a5d2-f04f-400e-aba8-23f2664d8b98)
 
