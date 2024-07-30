@@ -41,20 +41,40 @@ A desktop application built with Python . Here's a breakdown of its functionalit
 
 * The code uses global variables (`df`, `filename`, `sheetname`), which is generally discouraged in larger applications due to potential maintainability issues.
 
-
+CONTACT ME FOR MORE DETAILS:
+Abokhatwa.eldeeb@gmail.com 
 
 Overall, this application provides a user-friendly way for TAQA Company to collect, validate, and store data related to sales or services. 
-![Screenshot (564)](https://github.com/user-attachments/assets/3cf23958-4b88-47b4-a7d3-c879b61bdc20)
-![Screenshot (563)](https://github.com/user-attachments/assets/fd94333c-2d62-4d34-9ff0-4ef264171436)
-![Screenshot (562)](https://github.com/user-attachments/assets/355ac49e-dc3b-4833-b9f1-1214b03438b0)
-![Screenshot (561)](https://github.com/user-attachments/assets/5ff0a7ca-4336-4c86-9f74-eb0c48ff4da1)
-![Screenshot (560)](https://github.com/user-attachments/assets/04b93b14-ed22-4411-9155-e5f8f2f7127d)
-![Screenshot (559)](https://github.com/user-attachments/assets/464a6391-6f29-4856-9a04-f038a9525cec)
-![Screenshot (558)](https://github.com/user-attachments/assets/9712018f-73d5-4762-ba38-37343105c5e3)
-![Screenshot (557)](https://github.com/user-attachments/assets/3c999607-e013-4a52-9660-28c7cc13b282)
-![إرشادات استخدام البرنامج](https://github.com/user-attachments/assets/946c769b-7c4e-49f8-8ef4-9fc3596cabb9)
-![Screenshot (569)](https://github.com/user-attachments/assets/e114e825-1b1c-424f-9a74-4c79a9d39545)
-![Screenshot (568)](https://github.com/user-attachments/assets/96477cd9-8b16-49b0-82f5-1014c63f0758)
-![Screenshot (567)](https://github.com/user-attachments/assets/5f047c6c-9438-4242-84d0-a72ea13d6cdd)
-![Screenshot (566)](https://github.com/user-attachments/assets/887f1483-7b0f-42d5-ad7b-be0b9bf41f4e)
-![Screenshot (565)](https://github.com/user-attachments/assets/305c1f6d-29cf-4188-9f1b-9e397603a18a)
+
+![1](https://github.com/user-attachments/assets/a6b5a5d2-f04f-400e-aba8-23f2664d8b98)
+
+![2-Search on all excel ](https://github.com/user-attachments/assets/2549df33-bd50-41d7-ad1e-a9ba67041df1)
+
+![3-Choose any customer ](https://github.com/user-attachments/assets/18744b6e-41bb-473a-aa93-e6edb33edbe0)
+
+![3-search again ](https://github.com/user-attachments/assets/0ee3cf97-bd77-4ef3-894e-2227e8689e51)
+
+![4-add customer](https://github.com/user-attachments/assets/13e06b3f-1cfc-4e1b-808f-177e52d7e501)
+
+![5-add without completion](https://github.com/user-attachments/assets/ee2a7c1a-0910-47fb-8e0f-5e8ed6320d42)
+
+![6-NO Excel found ](https://github.com/user-attachments/assets/5184870e-b80c-4d0f-8ae3-38126f1a9316)
+
+![7-not 11 number](https://github.com/user-attachments/assets/ea10e7ce-069b-4521-959f-08d52a09901e)
+
+![8-dropdown menu](https://github.com/user-attachments/assets/abb0825f-c062-4eb3-aaae-e903bf1250dc)
+
+![9-dropdown menu](https://github.com/user-attachments/assets/335a73ea-b449-4d51-9e85-f752e1ee8074)
+
+![10-dropdown menu](https://github.com/user-attachments/assets/1864fec6-106a-4d3a-bdd2-5ab82affb73a)
+
+![11-wrong data](https://github.com/user-attachments/assets/f2704b7d-3f31-40ac-822d-a75f34f5c41b)
+
+![إرشادات استخدام البرنامج](https://github.com/user-attachments/assets/398af85a-9a77-435d-859b-0885a95e93d0)
+
+
+
+
+
+
+
