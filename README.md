@@ -70,7 +70,7 @@ this application provides a user-friendly way to collect, validate, and store da
 
 ![11-wrong data](https://github.com/user-attachments/assets/f2704b7d-3f31-40ac-822d-a75f34f5c41b)
 
-![إرشادات استخدام البرنامج](https://github.com/user-attachments/assets/398af85a-9a77-435d-859b-0885a95e93d0)
+
 
 
 
