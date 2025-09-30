@@ -37,14 +37,12 @@ A desktop application built with Python . Here's a breakdown of its functionalit
     * A results section displaying a table, possibly showing previously entered data.
     * A function section with buttons for potentially adding, editing, or clearing data.
 
-**Additional Notes:**
-
-* The code uses global variables (`df`, `filename`, `sheetname`), which is generally discouraged in larger applications due to potential maintainability issues.
+this application provides a user-friendly way to collect, validate, and store data related to sales or services. 
 
 CONTACT ME FOR MORE DETAILS:
 Abokhatwa.eldeeb@gmail.com 
 
-this application provides a user-friendly way to collect, validate, and store data related to sales or services. 
+
 
 ![1](https://github.com/user-attachments/assets/a6b5a5d2-f04f-400e-aba8-23f2664d8b98)
 
